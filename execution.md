@@ -14,6 +14,6 @@ Sau khi đã học được các kiến thức về nguyên lý tổng thể tro
 ### Yêu cầu 🔍
 Dựa vào các nguyên tắc được chia sẻ kết hợp với sự sáng tạo của mình để tạo ra những ấn phẩm theo brief. 
 Các bạn sau khi làm bài xong hãy đăng những ấn phẩm tuyệt đẹp của mình lên Facebook chế độ công khai kèm theo hashtag: #TRAINEEPROGRAM2024 <br>
-Và sau đó nộp bài vào [link]() **trước Deadline 23h59 - 12/11/2024**  nhaaaa 
+Và sau đó nộp bài vào [link](https://forms.office.com/r/xHu3gUyjh9) **trước Deadline 23h59 - 12/11/2024**  nhaaaa 
 
 **Chúc các bạn học tập thật năng suất và hiệu quả. Hy vọng các bạn vẫn giữ được năng lượng và nhiệt huyết để đến với những buổi học đầy thú vị tiếp theo cùng Cá Voi nhé!**
