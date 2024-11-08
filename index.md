@@ -12,7 +12,7 @@
 - Nội dung buổi học: Color
 - Thời gian tổ chức buổi học: 20g00 ngày 14/11/2024 (Thứ năm)
 - Hình thức buổi học: Học online trên Microsoft Teams
-- Link buổi học: bit.ly/TP24TTColor
+- Link buổi học: bit.ly/TP24TTColor ([QR CODE](https://drive.google.com/file/d/1dBsZXSwLEbphd31o1lQONvFoKCuD90-G/view?usp=sharing))
 - ✨ **Màu sắc:** CHỈ dùng 3 màu đen, trắng, xanh dương (có thể dùng màu xám, gradient), hệ màu sRGB. [**Palette màu xanh dương**](https://colorhunt.co/palette/0a26471442722052952c74b3)
 - ✨ **Phần mềm thiết kế:** Bất kỳ ứng dụng thiết kế nào các bạn có thể dùng (Figma, Canva, Adobe Photoshop, Adobe Illustrator, ...)
 
