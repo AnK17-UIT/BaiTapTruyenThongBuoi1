@@ -15,9 +15,9 @@
 - ✨ **Màu sắc:** CHỈ dùng 3 màu đen, trắng, xanh dương (có thể dùng màu xám, gradient). [Palette màu xanh dương](https://colorhunt.co/palette/0a26471442722052952c74b3)
 - ✨ **Phần mềm thiết kế:** Bất kỳ ứng dụng thiết kế nào các bạn có thể dùng (Figma, Canva, Adobe Photoshop, Adobe Illustrator, ...)
 
-## **Tài liệu tham khảo 🔍**
-[Pinterest](https://www.pinterest.com/)
-[Behance](https://www.behance.net/)
+## **Tài liệu tham khảo 👀**
+[**Pinterest**](https://www.pinterest.com/) <br>
+[**Behance**](https://www.behance.net/)
   
 ## **Yêu cầu 🔍**
 > Nhiệm vụ của các bạn trong bài tập này bao gồm:
